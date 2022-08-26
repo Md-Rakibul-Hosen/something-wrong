@@ -1,0 +1,8 @@
+.carousel-height {
+	height: 100vh !important;
+}
+.t{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
